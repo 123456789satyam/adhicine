@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "625558584967",
+    "project_id": "adhicine-e52e7",
+    "storage_bucket": "adhicine-e52e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625558584967:android:36bbb4594ed9ba6404c222",
+        "android_client_info": {
+          "package_name": "com.example.adhicine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjYz7Mgct-tn-0rw9vttPP4Qp3VqbbfVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
